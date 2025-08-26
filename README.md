@@ -34,4 +34,4 @@ The focus is on building a **dynamic dashboard** that allows decision-makers to 
 ---
 
 ## 📷 Screenshots
-*(Add screenshots of your Excel dashboard here — upload them in the repo and link them, e.g. `![Dashboard](screenshot.png)`)*
+![Dashboard](https://github.com/AhmedMedhatFarouk/ecommerce-dashboard/blob/main/Dashboard%202.jpeg)
